@@ -1,0 +1,7 @@
+Use as setas do teclado para movimentação do personagem.
+Caso queira plantar, use o botão P. Caso queira deixar de plantar, apenas clique P de novo. Para trocar a planta a ser plantada, use o scroll do mouse.
+Caso queira ver as plantas crescendo, aperte G. Cada planta tem um tempo de crescimento diferente. Ainda não implementamos a fase da colheita, nem a passagem dos dias de maneira automática.
+Caso queira ver o "debug", aperte 0. Verá o grid snapping, assim como as máscaras de colisão.
+Caso queira mexer a câmera de maneira diferente da original, segure o botão C e use os botões W,A,S,D, para a direção que quiser. Ainda há um certo bug ao utilizar isso, mas pretendemos
+consertá-lo.
+Desde já, agradecemos por jogar o nosso jogo!
